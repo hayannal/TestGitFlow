@@ -14,6 +14,16 @@ public class Readme : ScriptableObject
         public string heading, text, linkText, url;
     }
 
+    public class OtherClass
+    {
+
+    }
+
+    public class OtherOtherClass
+    {
+
+    }
+
     public class TestClass
     {
 
