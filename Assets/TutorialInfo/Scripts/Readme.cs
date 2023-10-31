@@ -18,4 +18,9 @@ public class Readme : ScriptableObject
     {
 
     }
+
+    public class OtherOtherClass
+    {
+
+    }
 }
