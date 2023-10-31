@@ -23,4 +23,9 @@ public class Readme : ScriptableObject
     {
 
     }
+
+    public class TestClass
+    {
+
+    }
 }
